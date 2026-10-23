@@ -17,13 +17,11 @@ Objectifs du projet
 Public cible
 
 Le site s’adresse aux amateurs de super-héros, aux fans de Marvel et de DC Comics, ainsi qu’à toute personne souhaitant découvrir les personnages qui ont marqué l’univers des comics et du cinéma.
-Noms des auteurs
 
-À compléter avec les noms des personnes ayant participé au projet.
-URL du site
-
-À compléter avec le lien du site une fois celui-ci publié en ligne.
+Noms des auteurs :
 
 Noms des auteurs : Olivier Bats / Charmetant Tristan
 
-URL : https://github.com/olivier395/Super-Heros.git
+URL du site :
+
+https://github.com/olivier395/Super-Heros.git
